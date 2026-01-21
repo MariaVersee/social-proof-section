@@ -12,8 +12,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgba(40, 40, 40, 0.5;);
-  font-family: "League Spartan", sans-serif;
+ font-family: "League Spartan", sans-serif;
+ 
 }
 .top-image {
   position: absolute;
